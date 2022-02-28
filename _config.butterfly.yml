@@ -94,7 +94,7 @@ archive_img:
 
 # If the banner of tag page not setting, it will show the top_img
 # note: tag page, not tags page (子標籤頁面的 top_img)
-tag_img:
+tag_img: https://www.qingmo.net/wp-content/uploads/2017/03/20150129131923.jpg
 
 # The banner image of tag page
 # format:
