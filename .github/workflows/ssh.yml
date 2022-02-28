@@ -1,5 +1,8 @@
-name: remote ssh command
-on: [push]
+name: remote ssh && git pull
+on:
+  push:
+    branches:
+      - gh-pages
 jobs:
 
   build:

@@ -4,7 +4,7 @@
 
 # Site
 title: 林深见鹿
-subtitle: '林深时见鹿 海蓝时见鲸'
+subtitle: '林深时见鹿 海蓝时见鲸 梦醒时见你 ......'
 description: ''
 keywords:
 author: 爱哭的我
@@ -98,7 +98,6 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: butterfly
-remote-theme: butterfly
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
