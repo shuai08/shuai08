@@ -104,7 +104,7 @@ remote-theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git 
-  repo: git@github.com:shuai08/shuai08.github.io.git 
-  branch: master 
+  repo: https://github.com/shuai08/shuai08
+  branch: gh-pages 
 
 
