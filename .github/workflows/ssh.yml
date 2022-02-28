@@ -13,4 +13,6 @@ jobs:
         username: ${{ secrets.USERNAME }}
         password: ${{ secrets.PASSWORD }}
         port: ${{ secrets.PORT }}
-        script: whoami
+        script: |
+          cd /usr/share/nginx/shuai08 && git pull 
+          cd /usr/share/nginx/shuai08/shuai08 && git pull 
