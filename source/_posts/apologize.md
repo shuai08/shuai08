@@ -9,7 +9,7 @@ top_img: http://5b0988e595225.cdn.sohucs.com/images/20171124/1fe444cfe03a4e7f8b0
 
 文章的开头以许嵩的一首歌作为开始吧。
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=420 height=86 src="//music.163.com/outchain/player?type=2&id=167888&auto=1&height=66"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=320 height=86 src="//music.163.com/outchain/player?type=2&id=167888&auto=1&height=66"></iframe>
 
 其实很久很久以前就想写一个正式的道歉文章。总觉得写出来缺少点什么，却又想写点什么。
 
