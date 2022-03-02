@@ -6,6 +6,15 @@ top_img: http://qqpublic.qpic.cn/qq_public/0/0-2636732511-73A9C0BE22824E876C498B
 cover: http://qqpublic.qpic.cn/qq_public/0/0-2636732511-73A9C0BE22824E876C498B8A216894A5/0?fmt=jpg&size=53&h=630&w=900&ppv=1.jpg
 ---
 
+## 开篇
+
+开篇我们一起听大话西游的主题曲吧 《一生所爱》。
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=25707139&auto=1&height=66"></iframe>
+
+虽然我们的故事没有那么轰轰烈烈，但是某个情节也许就是我们的故事～～
+
+
 ## 3月
 
 随着 3 月的来到，气温也随之回暖。这一月会有很多美好的事情，既然无法一起欣赏，我觉得可以睹物思人
@@ -35,9 +44,9 @@ cover: http://qqpublic.qpic.cn/qq_public/0/0-2636732511-73A9C0BE22824E876C498B8A
 
 ## 感情处理方式
 
-我是在用你的方式试图去处理感情的问题…… 
+我是在用你的方式试图去处理感情的问题。
 
-我想说方式也许不对……但是心却最诚实.
+我想说方式也许不对……但是心却最诚实。
 
 虽然结果不是那么理想。但是也确实让我感同身受。
 
