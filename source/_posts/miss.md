@@ -1,5 +1,6 @@
 ---
 title: 林深时见鹿，海蓝时见鲸
+date: 2021-05-20 18:21:11
 top_img: https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fclub2.autoimg.cn%2Falbum%2Fg7%2FM06%2FF3%2F92%2Fuserphotos%2F2021%2F03%2F21%2F16%2F500_ChsEvmBXCC-AYcCCAAOjwFeXSQA157.jpg&refer=http%3A%2F%2Fclub2.autoimg.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1648629444&t=75df3c104b994a24ecf27fbe9596c875
 
 cover: https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fclub2.autoimg.cn%2Falbum%2Fg7%2FM06%2FF3%2F92%2Fuserphotos%2F2021%2F03%2F21%2F16%2F500_ChsEvmBXCC-AYcCCAAOjwFeXSQA157.jpg&refer=http%3A%2F%2Fclub2.autoimg.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1648629444&t=75df3c104b994a24ecf27fbe9596c875
@@ -7,7 +8,7 @@ cover: https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fclub2.autoimg.cn%2F
 ---
 
 
-文章写于2022年1月1日，完成于2021年2月18日。最后更新于 2022年2月21日。思考于2020-2021……
+文章写于2021年，完成于2022年。最后更新于 2022年2月21日。思考于2020-2021……
 
 From：一个在你面前流过泪的大男孩
 To：那个被弄丢了很长时间的女孩
